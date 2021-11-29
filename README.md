@@ -15,6 +15,3 @@ Next, the Data_Analysis notebook performs the NLP and builds a regression model 
 
 
 
-```python
-
-```
