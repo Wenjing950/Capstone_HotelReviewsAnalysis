@@ -4,7 +4,7 @@ Online reviews have emerged as an increasingly important topic in the hospitalit
 
 This project is divided in two Jupiter notebooks with annotations as a guide:
 * Data Ingestion (Gathering data through web scraping from TripAdvisor)
-* Data Analysis (Regression and Natural Language Processing
+* Data Analysis (Regression and Natural Language Processing)
 
 
 Notebooks contain annotations
